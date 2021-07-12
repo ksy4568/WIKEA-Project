@@ -1,6 +1,6 @@
 # WIKEA Front-end team입니다! 👨🏻‍💻
 
-- 가구 전문 이커머스 플랫폼인 [이케아(IKEA)](https://www.ikea.com/kr/ko/) 클론 프로젝트
+- 가구 전문 이커머스 플랫폼인 [이케아(IKEA)](https://www.ikea.com/kr/ko/)를 모티브한 프로젝트
 
 ## 프로젝트 소개
 
